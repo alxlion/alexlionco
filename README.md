@@ -15,10 +15,12 @@
 <img src="skills.png" width="50%"></img>
 </p>
 
+## Stats
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alxlion&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alxlion&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-## Contact Me !
+## Contact Me
 
 :point_right: [My Twitter](https://twitter.com/_alxlion)<br><br>
 :point_right: [My LinkedIn](https://www.linkedin.com/in/alion)<br><br>
