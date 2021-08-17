@@ -1,16 +1,26 @@
-### Hi there 👋
 
-<!--
-**alxlion/alxlion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align=center>Hi There 👋</h1>
 
-Here are some ideas to get you started:
+<p align=center>
+  I'm Alex, a french <strong>Lead Software Engineer</strong>.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align=center>
+<img width="25%" src="https://avatars.githubusercontent.com/u/1835726?v=4"></img>
+</p>
+
+
+## My Skills
+<p align=center>
+<img src="https://github.com/riderx/riderx/blob/main/skills.png" width="50%"></img>
+</p>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alxlion&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alxlion&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+## Contact Me !
+
+:point_right: [My Twitter](https://twitter.com/_alxlion)<br><br>
+:point_right: [My LinkedIn](https://www.linkedin.com/in/alion)<br><br>
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=alxlion.alxlion)
