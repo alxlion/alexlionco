@@ -22,7 +22,7 @@
 
 ## Contact Me
 
-:point_right: [My Twitter](https://twitter.com/_alxlion)<br><br>
-:point_right: [My LinkedIn](https://www.linkedin.com/in/alion)<br><br>
+:point_right: [My Twitter](https://twitter.com/alexlionco)<br><br>
+:point_right: [My LinkedIn](https://www.linkedin.com/in/alexlion)<br><br>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=alxlion.alxlion)
